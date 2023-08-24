@@ -4,7 +4,7 @@ return {
     version = "*",
     opts = {
       start_in_insert = true,
-      shade_ternminal = false,
+      shade_terminals = false,
     },
   },
 }
